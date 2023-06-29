@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://picsum.photos/id/111/200/300",
+    "title": "Book 1",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "percentage": 90,
+    "cost": 50000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5
+          },
+          {
+            "user": "User10",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 10
+          }
+
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://picsum.photos/id/222/200/300",
+    "title": "Book 2",
+    "description": "Description of Book 2",
+    "percentage": 70,
+    "cost": 65000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://picsum.photos/id/335/200/300",
+    "title": "Book 3",
+    "description": "Description of Book 3",
+    "percentage": 80,
+    "cost": 75000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5,
+            "comments":[]
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://picsum.photos/id/444/200/300",
+    "title": "Book 4",
+    "description": "Description of Book 4",
+    "percentage": 60,
+    "cost": 55000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5,
+            "comments":[]
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://picsum.photos/id/555/200/300",
+    "title": "Book 5",
+    "description": "Description of Book 5",
+    "percentage": 85,
+    "cost": 60000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5,
+            "comments":[]
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://picsum.photos/id/666/200/300",
+    "title": "Book 6",
+    "description": "Description of Book 6",
+    "percentage": 75,
+    "cost": 70000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5,
+            "comments":[]
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://picsum.photos/id/777/200/300",
+    "title": "Book 7",
+    "description": "Description of Book 7",
+    "percentage": 95,
+    "cost": 80000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5,
+            "comments":[]
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://picsum.photos/id/888/200/300",
+    "title": "Book 8",
+    "description": "Description of Book 8",
+    "percentage": 85,
+    "cost": 90000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5,
+            "comments":[]
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://picsum.photos/id/999/200/300",
+    "title": "Book 9",
+    "description": "Description of Book 9",
+    "percentage": 70,
+    "cost": 95000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5,
+            "comments":[]
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://picsum.photos/id/1010/200/300",
+    "title": "Book 10",
+    "description": "Description of Book 10",
+    "percentage": 80,
+    "cost": 55000,
+    "comments": [
+      {
+        "user": "User1",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 5,
+        "comments":[
+          {
+            "user": "User2",
+            "avatar":"https://i.pravatar.cc/300",
+            "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+            "likes": 5,
+            "comments":[]
+          }
+        ]
+      },
+      {
+        "user": "User5",
+        "avatar":"https://i.pravatar.cc/300",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled ",
+        "likes": 3,
+        "comments":[]
+      }
+    ]
+  }
+]
